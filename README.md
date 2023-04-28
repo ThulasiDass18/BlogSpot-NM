@@ -1,4 +1,4 @@
-# mern-stack-blog
+# mern-BlogSpot
 
 ## How To Run
 Create an Atlas URI connection parameter in `backend/.env` with your Atlas URI:
